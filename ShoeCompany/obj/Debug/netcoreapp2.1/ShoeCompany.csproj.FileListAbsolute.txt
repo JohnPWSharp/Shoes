@@ -1,0 +1,15 @@
+C:\Work In Progress\Microsoft\M4048\Samples\ShoeCompany\ShoeCompany\bin\Debug\netcoreapp2.1\ShoeCompany.xml
+C:\Work In Progress\Microsoft\M4048\Samples\ShoeCompany\ShoeCompany\bin\Debug\netcoreapp2.1\ShoeCompany.deps.json
+C:\Work In Progress\Microsoft\M4048\Samples\ShoeCompany\ShoeCompany\bin\Debug\netcoreapp2.1\ShoeCompany.runtimeconfig.json
+C:\Work In Progress\Microsoft\M4048\Samples\ShoeCompany\ShoeCompany\bin\Debug\netcoreapp2.1\ShoeCompany.runtimeconfig.dev.json
+C:\Work In Progress\Microsoft\M4048\Samples\ShoeCompany\ShoeCompany\bin\Debug\netcoreapp2.1\ShoeCompany.dll
+C:\Work In Progress\Microsoft\M4048\Samples\ShoeCompany\ShoeCompany\bin\Debug\netcoreapp2.1\ShoeCompany.pdb
+C:\Work In Progress\Microsoft\M4048\Samples\ShoeCompany\ShoeCompany\obj\Debug\netcoreapp2.1\ShoeCompany.csproj.CoreCompileInputs.cache
+C:\Work In Progress\Microsoft\M4048\Samples\ShoeCompany\ShoeCompany\obj\Debug\netcoreapp2.1\ShoeCompany.RazorAssemblyInfo.cache
+C:\Work In Progress\Microsoft\M4048\Samples\ShoeCompany\ShoeCompany\obj\Debug\netcoreapp2.1\ShoeCompany.RazorAssemblyInfo.cs
+C:\Work In Progress\Microsoft\M4048\Samples\ShoeCompany\ShoeCompany\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Work In Progress\Microsoft\M4048\Samples\ShoeCompany\ShoeCompany\obj\Debug\netcoreapp2.1\ShoeCompany.AssemblyInfoInputs.cache
+C:\Work In Progress\Microsoft\M4048\Samples\ShoeCompany\ShoeCompany\obj\Debug\netcoreapp2.1\ShoeCompany.AssemblyInfo.cs
+C:\Work In Progress\Microsoft\M4048\Samples\ShoeCompany\ShoeCompany\obj\Debug\netcoreapp2.1\ShoeCompany.RazorTargetAssemblyInfo.cache
+C:\Work In Progress\Microsoft\M4048\Samples\ShoeCompany\ShoeCompany\obj\Debug\netcoreapp2.1\ShoeCompany.dll
+C:\Work In Progress\Microsoft\M4048\Samples\ShoeCompany\ShoeCompany\obj\Debug\netcoreapp2.1\ShoeCompany.pdb
